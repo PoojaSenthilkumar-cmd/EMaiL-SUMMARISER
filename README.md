@@ -1,4 +1,5 @@
-#EMail-SUMMARISER
+**EMail-SUMMARISER**
+
 A Google Colab-based Python tool to fetch, summarize, and report Gmail inbox contents using NLP.
 
 Overview
